@@ -1,0 +1,84 @@
+body{
+  font-size: medium;
+  width: 90%;
+  text-align: justify;
+}
+
+article{
+  font-size: medium;
+  /*width: 80%;*/
+  text-align: justify;
+}
+
+h1,h2,h3{
+  font-family: 'UnifrakturCook', cursive;
+}
+
+ul{
+  text-align: left;
+  width: 75%;
+}
+
+button{
+  /*position: absolute;*/
+  font-size: medium;
+  font-family: 'UnifrakturCook', cursive;
+}
+
+.caveat{
+text-align: center;
+  width: 80%;
+  font-size: small;
+  color: red;
+  font-family: monospace;
+}
+
+.footer{
+  font-size: small;
+  color: gray;
+  font-family: monospace;
+  top: 10px;
+}
+
+.hiddenResults{display: none;}
+
+.showResults{display: block;}
+
+#results{
+  height: 800px;
+  position: relative;
+}
+
+#waitForThem{
+  text-align: justify;
+  text-emphasis: bold;
+  font-size: 20px;
+  color: orange;
+}
+
+#quiet{
+  text-align: justify;
+  text-emphasis: bold;
+  font-size: 40px;
+  color: orange;
+}
+
+#wtfButton{
+  position:absolute;
+  bottom: 2px;
+}
+
+#charlatan{
+  font-family: 'Lobster', cursive;
+  font-size: xx-large;
+}
+
+.wtf{
+  font-family: 'Lobster', cursive;
+  font-size: large;
+}
+
+#pirateEmoji{
+  width: 20px;
+  height: auto;
+}
